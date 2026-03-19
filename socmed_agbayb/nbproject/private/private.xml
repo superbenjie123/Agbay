@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/index.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/views/res/style.css</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/db/dbconnect.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/register_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/login.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/login_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/profile.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/logout_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/add_post.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/load_account_posts.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/timeline.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/models/load_all_posts.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/views/res/paimon1.jpg</file>
+            <file>file:/C:/xampp/htdocs/socmed_agbayb/views/res/aether.jpg</file>
+        </group>
+    </open-files>
+</project-private>

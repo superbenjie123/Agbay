@@ -1,0 +1,174 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 4, 2025, 3:41:01 PM
+    Author     : R-4
+*/
+
+body{
+    background-color: #ffff99;
+    font-family: "Calibri";
+}
+.register-form{
+    background-color: #66ccff;
+    padding: 1em;
+    width: 30%;
+    margin: 2em auto;
+    border-radius: 5px;
+    box-shadow: 3px 2px 2px 0px #ccccff
+}
+input{
+    width: 90%;
+    margin: .5em auto;
+    display: block;
+    padding: .5em;
+    margin-top: .1em;
+    border-radius: 5px;
+    border: none;
+    border: 1em solid #00ffff;
+    
+        
+}
+label{
+    font-size: .8em;
+}
+input[type='submit']{
+    background-color: #ccccff;
+    color: #ffcccc
+}
+input [type='submit']:hover{
+    background-color:#1F1919;
+    border-radius: 5px;
+}
+    
+
+.navbar{
+    background-color:#00ffff;
+    box-shadow: 2px 2px 2px 0px #66ccff;
+    border-radius: 5px;
+}
+.right-nav{
+    text-align: right;
+    display: inline-block;
+    width: 20%;
+    margin: 0px;
+}
+.right-nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 1em;
+}
+.right-nav li:hover{
+    background-color:#ffff99;
+    color: #ccccff;
+    
+}
+.right-nav li:active{
+    background-color: #33ff00;
+    text-decoration: none;
+    color:#00ffff
+}
+.left-nav{
+    text-align: left;
+    display: inline-block;
+    width: 65%;
+    margin: 0px;
+    
+}
+.left-nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 1em;
+}
+.left-nav li:hover{
+    background-color:#ffff99;
+    
+}
+.left-nav li:active{
+    background-color: #33ff00;
+    
+}
+.title{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    color:#ffcccc;
+}
+.alert{
+    font-size: .8em;
+    font-weight: bold;
+    text-align: center;
+    color:#ffcccc;
+}
+.logo{
+    background-image: url('paimon1.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1em;    
+}
+.container{
+    width:90%;
+    overflow: hidden;
+    position: relative;
+    margin:auto;
+    margin-top: 15px;
+    background-color: #00ffff;
+    height: 80vh;
+    
+}
+.banner{
+    min-height: 33vh;
+    position: relative;
+    background-image: url('aether.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.profile-pic{
+    background-color: #ffcccc;
+    width: 20vh;
+    height: 20vh;
+    border-radius: 100px;
+    position: absolute;
+    top: 15vh;
+    left: 10vh;
+    background-image: url(leon.jpg);
+    background-size: cover;
+}
+#name{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: 15vh;
+    left: 33vh;
+    font-size: 2em;
+    color: #ffcccc;
+}
+.post-container{
+    width: 100%;
+    margin-top:auto;
+    margin-top: 10vh;
+    box-sizing: border-box;
+}
+#post-area{
+    margin: auto 40px;
+    width: 95%;
+    resize: none;
+    height: 40px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.account-post{
+    border:.1em solid;
+    border-color: #ccccff;
+    margin: .5em;
+    padding: 1em;
+}
+.account-name{
+    font-weight: bold;
+    
+}
